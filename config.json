@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "mongodb+srv://Foxiendevel:foxiendevel@cluster0.6yhoy9v.mongodb.net/?retryWrites=true&w=majority",
+    "mongodbUri": "mongodb+srv://Foxiendevel:FOXIENIS087@cluster0.6yhoy9v.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
